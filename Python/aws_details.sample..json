@@ -1,0 +1,21 @@
+{
+    "AWSProfileDetails": {
+        "ProfileName": "default",
+        "AccessKey": "DummyKey",
+        "SecretKey": "Ry6VvhyrDummySecret",
+        "SessionToken": null
+    },
+    "IAMUserDetails": {
+        "UserName": "dummyuser",
+        "UserArn": "arn:aws:iam::782394893580324:user/dummyuser",
+        "CreateDate": "2028-06-27 07:28:04+00:00"
+    },
+    "IAMUsersList": [
+        {
+            "Arn": "arn:aws:iam::782394893580324:user/dummyuser",
+            "UserName": "dummyuser",
+            "UserId": "dummyuserid",
+            "PasswordLastUsed": "2028-08-11 14:51:15+00:00"
+        }
+    ]
+}
